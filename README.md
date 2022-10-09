@@ -1,4 +1,5 @@
 # Infinite Spartans Pack 3.0
+Complete port of the Halo Infinite character biped for use in Blender, with as much accuracy as possible.
 
 # Credits
 - Initial rips by **Surasia**
