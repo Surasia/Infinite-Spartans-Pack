@@ -8,6 +8,7 @@ Complete port of the Halo Infinite character biped for use in Blender, with as m
 - Ported by **Surasia**
 - Original Meshes **© 343 Industries**
 - Additional Mesh Rips by **Plastered Crab**
+- Undamaged Mark VI Normal maps by **ChromaCore**
 
 ## Legal
 [Halo Infinite] © Microsoft Corporation. Infinite-Spartans-Pack was created under Microsoft's "Game Content Usage Rules" using assets from Halo Infinite, and it is not endorsed by or affiliated with Microsoft.
